@@ -1,5 +1,4 @@
 # Real-time Pose Animation 
-
 This Real-time Pose Animation takes 2D vector illustration and animates its containing curves in real-time based on the recognition, the result from PoseNet and FaceMesh. It is based on the idea of skeleton-based animation from computer graphics, computer vision and applies it to vector characters.
 
 <img src="/files/gif/boy.gif?raw=true" alt="cameraDemo" style="width: 250px;"/>
