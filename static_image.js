@@ -270,3 +270,4 @@ async function loadSVG(target) {
   illustration.bindSkeleton(skeleton, svgScope);
   testImageAndEstimatePoses();
 }
+
